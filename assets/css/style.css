@@ -1,0 +1,30 @@
+
+.amarillo {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: white solid 2px;
+}
+.azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: white solid 2px;
+}
+.rojo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: white solid 2px;
+}
+.verde{
+    width: 200px;
+    height: 200px;
+    background-color: green;  
+    border: white solid 2px;
+}
+#key{
+    width: 200px;
+    height: 200px; 
+    border: black solid 2px;
+}
